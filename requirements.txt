@@ -1,0 +1,9 @@
+numpy
+pandas
+geopandas
+scikit-learn
+shapely
+requests
+rasterio
+tqdm
+seaborn
